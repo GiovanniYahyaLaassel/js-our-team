@@ -1,3 +1,5 @@
+console.log('hello')
+
 const teamMembers = [
   {
     name: "Marco Bianchi",
